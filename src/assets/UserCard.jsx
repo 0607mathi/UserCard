@@ -1,3 +1,7 @@
+import mathi from '../../public/mathi.png'
+import Arun from '../../public/Arun.png'
+import Sheela from '../../public/Sheela.png'
+import sowmiyan from '../../public/sowmiyan.png'
 const userData=[{
     name:"Mathiyarasu",
     city:"Salem",
@@ -13,7 +17,7 @@ const userData=[{
         "Github",
         "MongoDB", ],
         online:true,
-        profile:"mathi.png"
+        profile:mathi
 },{
     name:"Sowmiyan",
     city:"Namakkal",
@@ -29,7 +33,7 @@ const userData=[{
         "Github",
         "SQL","C","MongoDB" ],
         online:false,
-        profile:"sowmiyan.png"
+        profile:sowmiyan
 }
 ,{
     name:"Sheela",
@@ -43,7 +47,7 @@ const userData=[{
         "Tailwind",
         "Github"],
         online:false,
-        profile:"Sheela.png"
+        profile:Sheela
 }
 ,{
     name:"Arunboopathi",
@@ -58,7 +62,7 @@ const userData=[{
         "Docker",
         "Github", ],
         online:true,
-        profile:"Arun.png"
+        profile:Arun
 }
 ]
 
